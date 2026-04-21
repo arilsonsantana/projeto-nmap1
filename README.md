@@ -40,13 +40,7 @@ Este projeto simula a fase inicial de reconhecimento, permitindo mapear serviço
 - Exportação de resultados para arquivo
 - Integração com Wazuh
 - Geração de alertas automatizados
-EOF
 
-echo "python-nmap" > requirements.txt
-
-git add .
-git commit -m "Adiciona README e requirements"
-git push
 ## Autor
 
 Arilson Santana  
