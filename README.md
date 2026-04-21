@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Automação de Varredura de Rede com Python e Nmap
 
 ## Descrição
@@ -48,3 +47,7 @@ echo "python-nmap" > requirements.txt
 git add .
 git commit -m "Adiciona README e requirements"
 git push
+## Autor
+
+Arilson Santana  
+Projeto desenvolvido em laboratório de cibersegurança (homelab)
